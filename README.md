@@ -13,4 +13,6 @@ Installs 3 scripts to `/Library/Services`
 Run the `Frontend Build Tool Helpers.pkg` from the `build/` directory.
 
 ## To Run
-screenshot.png
+- Right click on a folder that uses [Frontend BuildKit](https://github.com/NUKnightLab/frontend-buildkit).
+- Go to the `Services` menu and select one of the three options.
+![Screenshot](https://nuknightlab.github.io/frontend-buildkit-mac-shortcuts/screenshot.png)
