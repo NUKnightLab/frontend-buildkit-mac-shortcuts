@@ -11,3 +11,6 @@ Installs 3 scripts to `/Library/Services`
 
 ## To Install
 Run the `Frontend Build Tool Helpers.pkg` from the `build/` directory.
+
+## To Run
+screenshot.png
